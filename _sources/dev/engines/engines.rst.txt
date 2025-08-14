@@ -1,0 +1,9 @@
+.. _searx.engines loader:
+
+========================
+Infinity Search's engines loader
+========================
+
+.. automodule:: searx.engines
+  :members:
+
